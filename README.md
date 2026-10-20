@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -57,6 +55,8 @@ Previously, I did not know how to organize my CSS values properly, but throughou
 The project was very simple, too simple actually. There was not that much semantic HTML for me to work with. 
 
 Overall, I didn't learn much about CSS with this project. I did learn, how to use Figma and follow a more professional workflow, though, and that was pretty valuable.
+
+One example of using Figma is seeing exact spacing. This helped a lot. Being able to inspect the actual design instead of eyeballing everything is so much better.
 
 ## Author
 
