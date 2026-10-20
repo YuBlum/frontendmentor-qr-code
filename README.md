@@ -60,5 +60,5 @@ Overall, I didn't learn much about CSS with this project. I did learn, how to us
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/YuBlum)
+- Frontend Mentor - [@YuBlum](https://www.frontendmentor.io/profile/YuBlum)
 
